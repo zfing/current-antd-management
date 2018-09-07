@@ -1,0 +1,8 @@
+[
+  {"id":"2","name":"联系信息","icon":"idcard","route":"/contact"},
+  {"id":"4","name":"账号分配","icon":"solution","route":"/account"},
+  {"id":"7","name":"项目信息","icon":"edit","route":"/project"},
+  {"id":"3","name":"评级报告","icon":"pushpin","route":"/ratingReport"},
+  {"id":"5","name":"动态内容","icon":"bars","route":"/dynamicContent"},
+  {"id":"8","name":"上传文件","icon":"file-add","route":"/fileUpload"}
+]
